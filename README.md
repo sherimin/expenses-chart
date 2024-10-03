@@ -29,12 +29,16 @@ Users should be able to:
 
 ### Screenshot
 
+<<<<<<< HEAD
 ![](./screenshot.jpg)
+=======
+<img width="1451" alt="Screenshot 2024-10-01 at 8 17 34 PM" src="https://github.com/user-attachments/assets/09afd8aa-c162-4096-8206-efdd938f3b6a">
+>>>>>>> refs/remotes/origin/main
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repo](https://github.com/sherimin/expenses-chart/edit/main/README.md)
+- Live Site URL: [Live Site](https://expenses-chart-theta.vercel.app)
 
 ## My process
 
