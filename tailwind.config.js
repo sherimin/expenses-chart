@@ -1,8 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: [
-    "./src/**/*.{js,jsx,ts,tsx}",
-  ],
+  content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
       colors: {
@@ -11,13 +9,12 @@ module.exports = {
         secondary: "hsl(25, 47%, 15%)",
         secondaryLight: "hsl(28, 10%, 53%)",
         cream: "hsl(27, 66%, 92%)",
-        primaryLight: "hsl(33, 100%, 98%)"
+        primaryLight: "hsl(33, 100%, 98%)",
       },
       fontFamily: {
-        sans: ['DM Sans', 'sans-serif'],
-      }
+        sans: ["DM Sans", "sans-serif"],
+      },
     },
   },
   plugins: [],
-}
-
+};

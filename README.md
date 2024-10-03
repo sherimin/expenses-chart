@@ -1,6 +1,6 @@
 # Frontend Mentor - Expenses chart component solution
 
-This is a solution to the [Expenses chart component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt). 
+This is a solution to the [Expenses chart component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt).
 
 ## Table of contents
 
@@ -30,7 +30,6 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
-
 
 ### Links
 
@@ -67,7 +66,7 @@ As for this project itself, I think it would be beneficial for it to allow users
 ### Useful resources
 
 - [My Favourite React Chart Library](https://www.youtube.com/watch?v=nSsTDx9rgwk) - This is a tutorial video showcasing how to customize charts with Recharts for better use interactivity and responsiveness.
-- [TailwindCSS](https://tailwindcss.com/docs/installation) - TailwindCSS provides great resources on how to set up and config the project. 
+- [TailwindCSS](https://tailwindcss.com/docs/installation) - TailwindCSS provides great resources on how to set up and config the project.
 
 ## Author
 
