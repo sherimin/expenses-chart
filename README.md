@@ -28,12 +28,7 @@ Users should be able to:
 - **Bonus**: Use the JSON data file provided to dynamically size the bars on the chart
 
 ### Screenshot
-
-<<<<<<< HEAD
-![](./screenshot.jpg)
-=======
 <img width="1451" alt="Screenshot 2024-10-01 at 8 17 34 PM" src="https://github.com/user-attachments/assets/09afd8aa-c162-4096-8206-efdd938f3b6a">
->>>>>>> refs/remotes/origin/main
 
 ### Links
 
